@@ -184,5 +184,8 @@
     "languages": "kotlin-swift",
     "type": "nitro-module",
     "version": "0.51.1"
+  },
+  "engines": {
+    "node": ">=22.23.4 <23"
   }
 }
